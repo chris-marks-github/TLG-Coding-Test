@@ -1,0 +1,284 @@
+2017-02-24 17:00:10,545 DEBUG [main           ] [                   JavaTest:33  ]- Starting run method...
+2017-02-24 17:00:10,664 INFO  [main           ] [                   JavaTest:63  ]- Output of DTOs...
+2017-02-24 17:00:10,667 INFO  [main           ] [                   JavaTest:64  ]- Payment Details
+
+2017-02-24 17:00:59,841 DEBUG [main           ] [                   JavaTest:33  ]- Starting run method...
+2017-02-24 17:00:59,972 INFO  [main           ] [                   JavaTest:63  ]- Output of DTOs...
+2017-02-24 17:00:59,975 INFO  [main           ] [                   JavaTest:64  ]- Payment Details
+
+2017-02-24 17:01:18,881 DEBUG [main           ] [                   JavaTest:33  ]- Starting run method...
+2017-02-24 17:02:31,578 DEBUG [main           ] [                   JavaTest:33  ]- Starting run method...
+2017-02-24 17:13:28,716 DEBUG [main           ] [                   JavaTest:34  ]- Starting run method...
+2017-02-24 17:18:01,491 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:20:39,326 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:20:44,702 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:12,184 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:29,997 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:30,049 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:30,053 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:34,230 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:34,282 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:34,286 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:35,636 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:35,699 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:35,703 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:36,733 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:36,790 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:36,794 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:37,751 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:37,805 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:37,809 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:38,733 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:38,788 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:38,792 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:39,624 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:39,687 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:39,691 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:40,733 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:40,785 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:40,790 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:49,490 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:49,558 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:49,561 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:50,358 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:50,443 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:50,446 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:51,083 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:51,144 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:51,192 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:51,238 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:51,251 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:51,261 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:51,266 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:51,303 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:51,307 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:51,884 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:51,898 DEBUG [main           ] [                   JavaTest:35  ]- Starting run method...
+2017-02-24 17:21:51,950 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:51,955 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:51,964 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:51,969 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:21:55,096 INFO  [main           ] [                   JavaTest:74  ]- Output of DTOs...
+2017-02-24 17:21:55,102 INFO  [main           ] [                   JavaTest:75  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+
+2017-02-24 17:42:51,602 DEBUG [main           ] [                   JavaTest:39  ]- Starting run method...
+2017-02-24 17:43:17,544 INFO  [main           ] [                   JavaTest:93  ]- Output of DTOs...
+2017-02-24 17:43:17,559 INFO  [main           ] [                   JavaTest:94  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+Transaction Type:    refund                        
+Customer:            present                       
+Time:                Mon Jul 01 10:00:44 BST 1974  
+Amount:              2000                          
+
+2017-02-24 17:44:34,046 DEBUG [main           ] [                   JavaTest:39  ]- Starting run method...
+2017-02-24 17:44:34,102 INFO  [main           ] [                   JavaTest:93  ]- Output of DTOs...
+2017-02-24 17:44:34,109 INFO  [main           ] [                   JavaTest:94  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+Transaction Type:    refund                        
+Customer:            present                       
+Time:                Thu Jan 01 10:55:44 GMT 1970  
+Amount:              2000                          
+
+2017-02-24 17:52:20,776 DEBUG [main           ] [                   JavaTest:39  ]- Starting run method...
+2017-02-24 17:52:20,831 INFO  [main           ] [                   JavaTest:93  ]- Output of DTOs...
+2017-02-24 17:52:20,838 INFO  [main           ] [                   JavaTest:94  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+Transaction Type:    refund                        
+Customer:            present                       
+Time:                Thu Jan 01 10:55:44 GMT 1970  
+Amount:              2000                          
+
+2017-02-24 18:14:40,894 DEBUG [main           ] [                   JavaTest:41  ]- Starting run method...
+2017-02-24 18:21:36,294 DEBUG [main           ] [                   JavaTest:42  ]- Starting run method...
+2017-02-24 18:21:36,348 INFO  [main           ] [                   JavaTest:117 ]- Output of DTOs...
+2017-02-24 18:21:36,355 INFO  [main           ] [                   JavaTest:118 ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+Transaction Type:    refund                        
+Customer:            present                       
+Time:                Thu Jan 01 10:55:44 GMT 1970  
+Amount:              2000                          
+
+2017-02-24 18:26:00,469 DEBUG [main           ] [                   JavaTest:42  ]- Starting run method...
+2017-02-24 18:26:33,518 INFO  [main           ] [                   JavaTest:61  ]- Output of DTOs...
+2017-02-24 18:26:37,866 INFO  [main           ] [                   JavaTest:62  ]- Payment Details
+Card
+PAN:                 4111111111111111              
+Expiry Date:         2016-12                       
+Track 2:             ;476173******0010=*****************?4
+Token
+Token:               476173bbbbbbbgf0010           
+Origin:              central                       
+Transaction Type:    purchase                      
+Customer:            present                       
+Time:                Thu Jan 01 10:53:30 GMT 1970  
+Amount:              15000                         
+
+2017-02-24 18:27:25,787 DEBUG [main           ] [                   JavaTest:42  ]- Starting run method...
+2017-02-24 18:27:25,842 INFO  [main           ] [                   JavaTest:53  ]- Output of DTOs...
+2017-02-24 18:27:25,850 INFO  [main           ] [                   JavaTest:54  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+Transaction Type:    refund                        
+Customer:            present                       
+Time:                Thu Jan 01 10:55:44 GMT 1970  
+Amount:              2000                          
+
+2017-02-24 18:27:25,851 INFO  [main           ] [                   JavaTest:59  ]- Output of DTOs...
+2017-02-24 18:27:25,852 INFO  [main           ] [                   JavaTest:60  ]- Payment Details
+Card
+PAN:                 4111111111111111              
+Expiry Date:         2016-12                       
+Track 2:             ;476173******0010=*****************?4
+Token
+Token:               476173bbbbbbbgf0010           
+Origin:              central                       
+Transaction Type:    purchase                      
+Customer:            present                       
+Time:                Thu Jan 01 10:53:30 GMT 1970  
+Amount:              15000                         
+
+2017-02-24 21:37:41,067 DEBUG [main           ] [          JavaTestRecursive:42  ]- Starting run method...
+2017-02-24 21:37:41,128 INFO  [main           ] [          JavaTestRecursive:49  ]- Output of DTOs...
+2017-02-24 21:37:41,136 INFO  [main           ] [          JavaTestRecursive:50  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+Transaction Type:    refund                        
+Customer:            present                       
+Time:                Thu Jan 01 10:55:44 GMT 1970  
+Amount:              2000                          
+
+2017-02-24 21:37:41,139 INFO  [main           ] [          JavaTestRecursive:56  ]- Output of DTOs...
+2017-02-24 21:37:41,140 INFO  [main           ] [          JavaTestRecursive:57  ]- Payment Details
+Card
+PAN:                 4111111111111111              
+Expiry Date:         2016-12                       
+Track 2:             ;476173******0010=*****************?4
+Token
+Token:               476173bbbbbbbgf0010           
+Origin:              central                       
+Transaction Type:    purchase                      
+Customer:            present                       
+Time:                Thu Jan 01 10:53:30 GMT 1970  
+Amount:              15000                         
+
+2017-02-24 21:42:01,345 DEBUG [main           ] [          JavaTestRecursive:42  ]- Starting run method...
+2017-02-24 21:42:01,406 INFO  [main           ] [          JavaTestRecursive:49  ]- Output of DTOs...
+2017-02-24 21:42:01,415 INFO  [main           ] [          JavaTestRecursive:50  ]- Payment Details
+Card
+PAN:                 4444333322221111              
+Expiry Date:         2016-12                       
+Track 2:                                           
+Transaction Type:    refund                        
+Customer:            present                       
+Time:                Thu Jan 01 10:55:44 GMT 1970  
+Amount:              2000                          
+
+2017-02-24 21:42:01,418 INFO  [main           ] [          JavaTestRecursive:56  ]- Output of DTOs...
+2017-02-24 21:42:01,419 INFO  [main           ] [          JavaTestRecursive:57  ]- Payment Details
+Card
+PAN:                 4111111111111111              
+Expiry Date:         2016-12                       
+Track 2:             ;476173******0010=*****************?4
+Token
+Token:               476173bbbbbbbgf0010           
+Origin:              central                       
+Transaction Type:    purchase                      
+Customer:            present                       
+Time:                Thu Jan 01 10:53:30 GMT 1970  
+Amount:              15000                         
+
